@@ -1,16 +1,35 @@
-## Hi there 👋
+# Привет! 👋
+# Обо мне: 
+# Понимание принципов ООП
+# Нормальное знание C#
+# Навыки Моделирования в Blender
+# Рисование в PixelArt
+# Создание игр и написание кода
+-
 
-<!--
-**AlimContinue/AlimContinue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Навыки
+- Unity / C#
+- Git & GitHub
+- Понимание принципов ООП
+- Нормальное знание C#
+- Навыки Моделирования в Blender
+- Рисование в PixelArt
+- Создание игр и написание кода
+- 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🕹 Мои проекты
+
+| Название | Описание | Ссылка |
+|----------|----------|--------|
+| 🎮**Pink Elephant**🎮 | Пиксельный платформер про пожарного-слона | [GitHub](https://omagad22.itch.io/the-legendary-beanstalk) |
+
+| 🌱**The Legendary Beanstalk** || [Игра](https://) |
+
+
+## 📫 Как связаться со мной
+- Discord: Скоро!
+- Email:hasikasilov@mail.com
+
+## Фотки
+![image](https://github.com/user-attachments/assets/0cafae62-2555-43cc-a65a-e7b35d2c1429)
